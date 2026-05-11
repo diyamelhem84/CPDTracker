@@ -1,0 +1,7 @@
+{
+  "node_syntax_ok": true,
+  "sidebar_scrollbar_css": true,
+  "staff_cleanup_js": true,
+  "mobile_not_targeted_by_scroll_css": true,
+  "version_in_index": true
+}

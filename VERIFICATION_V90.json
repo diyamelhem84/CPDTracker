@@ -1,0 +1,13 @@
+{
+  "node_syntax_ok": true,
+  "render_shell_replaced": true,
+  "page_head_replaced": true,
+  "progress_replaced": true,
+  "smart_alert_label_removed": true,
+  "visible_notifications_override": true,
+  "notification_outside_click": true,
+  "delete_history_replaced": true,
+  "dhp_db_log": true,
+  "v90_css_present": true,
+  "version_in_index": true
+}
